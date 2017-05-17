@@ -73,7 +73,7 @@ class ViewController: UIViewController {
         leftValString = ""
         rightValString = ""
         currentOperation = .Empty
-        runningNumber = "0"
+        runningNumber = ""
         result = "0"
         OutputLabel.text = result
     
